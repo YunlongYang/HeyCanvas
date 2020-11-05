@@ -1,0 +1,3 @@
+include ':heycanvas'
+include ':app'
+rootProject.name = "HeyCanvas"
